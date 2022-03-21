@@ -1,2 +1,5 @@
-# Audio-Super-Resolution
-Audio Super-Resolution using Implicit Attention Mechanism
+# Audio-SR
+
+KAIST GCLab Sanghyun Jung
+
+-------------

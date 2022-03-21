@@ -1,0 +1,8 @@
+{
+  "dtype": "multi",
+  "LR_sample_rate": 16000,
+  "HR_sample_rate": 48000,
+  "max_epoch": 50,
+  "batch_size": 8,
+  "lr": 1e-4
+}

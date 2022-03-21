@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pycharm
+.idea/
+
+# vscode
+.vscode/
+
+# VCTK-Corpus-0.92 dataset
+dataset/VCTK-Corpus-0.92/*.txt
+dataset/VCTK-Corpus-0.92/txt/
+dataset/VCTK-Corpus-0.92/*/*.txt
+dataset/VCTK-Corpus-0.92/*/*/*.flac
+
+# models
+model/*/*
